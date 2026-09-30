@@ -1,0 +1,11 @@
+Dataset,Nodes,Edges,Communities,Description,Important note
+Amazon-C,13752,245861,10,Amazon co-purchasing network,Needs paper/repository preprocessing; public source versions may differ
+BZR,14479,15535,10,Benzodiazepine receptor interaction network,Needs paper/repository preprocessing; public Network Repository BZR version differs
+Citeseer,3312,4732,6,Citation network,Public citation dataset; exact edge/node preprocessing should follow paper code
+Cornell,195,301,5,Cornell/WebKB academic network,Public WebKB versions can differ in node/edge counts
+Cora,2708,5429,7,Citation network,Public Cora source available; exact preprocessing should follow paper code
+Dolphin,62,159,2,Dolphin social network,Public dolphins network available
+Email,1005,25571,42,Email-Eu-core network,SNAP provides this exact 1005/25571 network
+Gene,1103,1672,2,Gene/protein interaction network,Network Repository provides gene network
+PubMed,19717,44324,3,PubMed citation network,Public PubMed-Diabetes source available
+Reality-call,6809,7697,3,Reality-call social/mobile network,Public versions can differ; paper uses a processed 6809/7697 version
