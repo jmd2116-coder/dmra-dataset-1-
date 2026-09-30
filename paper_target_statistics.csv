@@ -1,0 +1,12 @@
+Paper target statistics
+Dataset,Nodes,Edges,Communities
+Amazon-C,13752,245861,10
+BZR,14479,15535,10
+Citeseer,3312,4732,6
+Cornell,195,301,5
+Cora,2708,5429,7
+Dolphin,62,159,2
+Email,1005,25571,42
+Gene,1103,1672,2
+PubMed,19717,44324,3
+Reality-call,6809,7697,3
